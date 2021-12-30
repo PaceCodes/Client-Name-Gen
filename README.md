@@ -5,4 +5,4 @@ This generator will help you to generate a random client name.
 
 Clone this repository and run `node ClientNameGen.js`
 
-*A kid named Cybe made this js and I uploaded (with his permission)*.
+*Cybe made this js and I uploaded (with his permission)*.
